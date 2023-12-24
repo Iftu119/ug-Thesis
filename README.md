@@ -1,22 +1,28 @@
 # Undergraduate Thesis
 
-#### Affiliations
+#### 🔰 Affiliations
 Dept. of Electrical and Electronic Engineering | Chittagong University of Engineering & Technology. <br>
 Renewable Energy Lab | CUET.
 <br>
-#### Work Area
+#### 🔰 Work Area
 Solar Cell Design and Fabrication 
-#### Topic
+#### 🔰 Topic
 Optical Confinement of Perovskite Solar Cell
-#### Thesis Supervisor
+#### 🔰 Thesis Supervisor
 **Dr. Mahmud Abdul Matin Bhuiyan**, <br> BSc. Engg. (CUET), M. Engg. (UTM), PhD (UKM) <br> Professor, Dept. of Electrical and Electronic Engineering, Chittagong University of Engineering & Technology (CUET) <br> 
-#### Thesis Mentor
+#### 🔰 Thesis Mentor
 **Md. Adnan Faisal Siddique**
-<br> Research Lecturer, Institute of Energy Technology (IET), Chittagong University of Engineering & Technology (CUET) . <br> <br>
+<br> Research Lecturer, Institute of Energy Technology (IET), Chittagong University of Engineering & Technology (CUET) . <br>
+
+#### 🔰 Thesis Students
+**Mohammad Iftekher (Iftu) Ebne Jalal**
+, Electrical and Electronic Undergrad, Chittagong University of Engineering & Technology (CUET). <br>
+**Ajmal Ahmed**
+, Electrical and Electronic Undergrad, Chittagong University of Engineering & Technology (CUET). <br> <br>
 
 ----
 
-### Proposal Details
+### 🔰 Proposal Details
 
 **Proposed Title :**  Improvement of Optical Confinement for the Perovskite Solar Cell <br> <br>
 **Perovskite Cell Structure :** <br> ![Perovskite Cell Structure](https://github.com/Iftu119/ug-Thesis/blob/main/Perovskite%20Solar%20Cell%20Structure.png)
